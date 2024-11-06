@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2024-11-06T01:03:29-06:00*%
+%TF.ProjectId,wearablesystem,77656172-6162-46c6-9573-797374656d2e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-11-06 01:03:29*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X24000000Y-19500000D02*
+X127000000Y-19500000D01*
+X127000000Y-121000000D01*
+X24000000Y-121000000D01*
+X24000000Y-19500000D01*
+M02*
