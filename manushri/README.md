@@ -19,4 +19,4 @@ After receiving feedback on the design document, we have moved on to modifying o
 Finalized circuit schematic and started working on PCB. Split the PCB work in round robin style, with each person working on it at one time. We have 2 PCBs, but I mostly worked on the wearable component. Successfully made order by audit
 
 ## 2024-11-6 PCB update
-Realized we were lacking flash, crystal, and antenna, all crucial parts of the PCB. I started redoing the wearable system circuit schematic, and did initial connections for the PCB aspect of it. Also organized it to make it seem more professional and easy to follow. 
+Realized we were lacking flash, crystal, and antenna, all crucial parts of the PCB. I started redoing the wearable system circuit schematic, and did initial connections for the PCB aspect of it. Also organized it to make it seem more professional and easy to follow. Made order after a long day!
