@@ -38,3 +38,5 @@ Realized that we were missing parts. Too late to get more parts in time for demo
 
 ## 2024-12-4 Final Takeaways
 Demo went well. We also filmed the extra credit video which I included. I started working on the presentation for our mock presentation.
+https://github.com/user-attachments/assets/a4e72ede-3543-401a-9fdf-084e24d0d647
+
