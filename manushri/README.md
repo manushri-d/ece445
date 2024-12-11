@@ -7,7 +7,11 @@ Did some preliminary research on the idea. Looked into how to modify led lights,
 Looked into ESP32-C3 to be a big component of project. This would work with bluetooth and sending the data from wearable system to mounted system.
 
 ## 2024-09-23 Design Document work
-Started working on the design document. Created a visual aid to show how we would use both microphone and heart rate sensor to then be computed and come up with an output. <img width="379" alt="Screenshot 2024-12-10 at 11 43 12 PM" src="https://github.com/user-attachments/assets/d9f2d158-949a-4aef-af93-4c2b5ca66a78"> Also created a block diagram to show the overall interactions between all of the subsystems. <img width="324" alt="Screenshot 2024-12-10 at 11 44 03 PM" src="https://github.com/user-attachments/assets/123faa32-3b4b-49ba-91b9-c2e5a957f37c">
+Started working on the design document. Created a visual aid to show how we would use both microphone and heart rate sensor to then be computed and come up with an output. 
+<img width="379" alt="Screenshot 2024-12-10 at 11 43 12 PM" src="https://github.com/user-attachments/assets/d9f2d158-949a-4aef-af93-4c2b5ca66a78"> 
+
+Also created a block diagram to show the overall interactions between all of the subsystems. 
+<img width="324" alt="Screenshot 2024-12-10 at 11 44 03 PM" src="https://github.com/user-attachments/assets/123faa32-3b4b-49ba-91b9-c2e5a957f37c">
 
 
 ## 2024-09-30 Proposal Regrade work
@@ -36,7 +40,9 @@ We got the new PCBs over Thanksgiving break. We will attach the parts for the PC
 I realized that we needed a 3D printed enclosure for the mounted and wearable system. I started working on designs and decided that making two boxes with holes for the wires would be our best bet. I used Autodesk Fusion to design the box and associated lid. I had never used CAD software before so this was a good experience. I've included a picture of the 3D printed enclosure for the wearable system. ![IMG_7928](https://github.com/user-attachments/assets/a1ad217e-0b3e-413b-aef6-fe76179b6b23)
 
 ## 2024-12-2 PCB missing parts
-Realized that we were missing parts. Too late to get more parts in time for demo. Got the breadboard components fully working for demo. Included a video of the colors moving in the attachments. I also decided to tweak the visual aids and the block diagrams in time for the final demo so we knew exactly what we changed from the start of the project to now. This is our new visual aid (where we moved to WiFi connection instead of Bluetooth connection). <img width="526" alt="Screenshot 2024-12-10 at 11 45 36 PM" src="https://github.com/user-attachments/assets/5843032d-5dda-41a6-b9ca-f65ade615f30"> This is our new block diagram (where we added the 9V battery to power the LED strips and got rid of the LED drivers). <img width="444" alt="Screenshot 2024-12-10 at 11 46 23 PM" src="https://github.com/user-attachments/assets/e33d97e3-3b2d-47e0-94b4-a99663fb9232">
+Realized that we were missing parts. Too late to get more parts in time for demo. Got the breadboard components fully working for demo. Included a video of the colors moving in the attachments. I also decided to tweak the visual aids and the block diagrams in time for the final demo so we knew exactly what we changed from the start of the project to now. This is our new visual aid (where we moved to WiFi connection instead of Bluetooth connection). 
+<img width="526" alt="Screenshot 2024-12-10 at 11 45 36 PM" src="https://github.com/user-attachments/assets/5843032d-5dda-41a6-b9ca-f65ade615f30"> 
+This is our new block diagram (where we added the 9V battery to power the LED strips and got rid of the LED drivers). <img width="444" alt="Screenshot 2024-12-10 at 11 46 23 PM" src="https://github.com/user-attachments/assets/e33d97e3-3b2d-47e0-94b4-a99663fb9232">
 
 ## 2024-12-4 Final Takeaways
 Demo went well. We also filmed the extra credit video which I included. I started working on the presentation for our mock presentation.
