@@ -7,12 +7,10 @@ Did some preliminary research on the idea. Looked into how to modify led lights,
 Looked into ESP32-C3 to be a big component of project. This would work with bluetooth and sending the data from wearable system to mounted system.
 
 ## 2024-09-23 Design Document work
-Started working on the design document. Created a visual aid to show how we would use both microphone and heart rate sensor to then be computed and come up with an output. 
-<img width="379" alt="Screenshot 2024-12-10 at 11 43 12 PM" src="https://github.com/user-attachments/assets/d9f2d158-949a-4aef-af93-4c2b5ca66a78"> 
-
-Also created a block diagram to show the overall interactions between all of the subsystems. 
+Started working on the design document. Created a visual aid to show how we would use both microphone and heart rate sensor to then be computed and come up with an output.   
+<img width="379" alt="Screenshot 2024-12-10 at 11 43 12 PM" src="https://github.com/user-attachments/assets/d9f2d158-949a-4aef-af93-4c2b5ca66a78">  
+Also created a block diagram to show the overall interactions between all of the subsystems.  
 <img width="324" alt="Screenshot 2024-12-10 at 11 44 03 PM" src="https://github.com/user-attachments/assets/123faa32-3b4b-49ba-91b9-c2e5a957f37c">
-
 
 ## 2024-09-30 Proposal Regrade work
 Changed entire format of document to be more professional. Did research into parts needed, and reevaluated use of them in the circuit schematics. Also redrew visual aids to work with TA feedback.
@@ -39,20 +37,23 @@ Started inital work on LED strip connections on breadboard as per TA feedback fr
 We got the new PCBs over Thanksgiving break. We will attach the parts for the PCB next week. Big thanks to my partners for working on this project over break. We all did equal work but they started on the ESP32 code instead of the testing that we were doing initially. We wouldn't have been able to do the project without everyone's effort.
 
 ## 2024-12-1 3D printing enclosure
-I realized that we needed a 3D printed enclosure for the mounted and wearable system. I started working on designs and decided that making two boxes with holes for the wires would be our best bet. I used Autodesk Fusion to design the box and associated lid. I had never used CAD software before so this was a good experience. I've included a picture of the 3D printed enclosure for the wearable system. ![IMG_7928](https://github.com/user-attachments/assets/a1ad217e-0b3e-413b-aef6-fe76179b6b23)
+I realized that we needed a 3D printed enclosure for the mounted and wearable system. I started working on designs and decided that making two boxes with holes for the wires would be our best bet. I used Autodesk Fusion to design the box and associated lid.   <img width="995" alt="Screenshot 2024-12-11 at 12 01 55 AM" src="https://github.com/user-attachments/assets/3b94a4c6-e88b-4192-bf87-ad5b26214baa">
+I then used Bambu studio to print them out. I had to play around with the filament options because different types of filament ran out when I was trying to print.   <img width="1188" alt="Screenshot 2024-12-11 at 12 03 00 AM" src="https://github.com/user-attachments/assets/7bef62b0-7ebe-4fc4-9b69-b0d8cc01d682">
+I had never used CAD software before so this was a good experience. I've included a picture of the 3D printed enclosure for the wearable system. ![IMG_7928](https://github.com/user-attachments/assets/a1ad217e-0b3e-413b-aef6-fe76179b6b23)
 
 ## 2024-12-2 PCB missing parts
-Realized that we were missing parts. Too late to get more parts in time for demo. Got the breadboard components fully working for demo. Included a video of the colors moving in the attachments. I also decided to tweak the visual aids and the block diagrams in time for the final demo so we knew exactly what we changed from the start of the project to now. This is our new visual aid (where we moved to WiFi connection instead of Bluetooth connection). 
-<img width="526" alt="Screenshot 2024-12-10 at 11 45 36 PM" src="https://github.com/user-attachments/assets/5843032d-5dda-41a6-b9ca-f65ade615f30"> 
-This is our new block diagram (where we added the 9V battery to power the LED strips and got rid of the LED drivers). <img width="444" alt="Screenshot 2024-12-10 at 11 46 23 PM" src="https://github.com/user-attachments/assets/e33d97e3-3b2d-47e0-94b4-a99663fb9232">
+Realized that we were missing parts. Too late to get more parts in time for demo. Got the breadboard components fully working for demo. Included a video of the colors moving in the attachments. I also decided to tweak the visual aids and the block diagrams in time for the final demo so we knew exactly what we changed from the start of the project to now. This is our new visual aid (where we moved to WiFi connection instead of Bluetooth connection).   
+<img width="526" alt="Screenshot 2024-12-10 at 11 45 36 PM" src="https://github.com/user-attachments/assets/5843032d-5dda-41a6-b9ca-f65ade615f30">  
+This is our new block diagram (where we added the 9V battery to power the LED strips and got rid of the LED drivers). 
+  <img width="444" alt="Screenshot 2024-12-10 at 11 46 23 PM" src="https://github.com/user-attachments/assets/e33d97e3-3b2d-47e0-94b4-a99663fb9232">
 
 ## 2024-12-3 Final Verifications
-Our breadboard is now completely working, but our PCB isn't due to lack of parts. Regardless we decided to test our verifications. Here is one example of the heart rate sensor that we ended up testing. One of our requirements was that we want our heart rate to fall in within 10 BPM range of a known workable heart rate monitor (aka Apple Watch). We got this requirement working!
+Our breadboard is now completely working, but our PCB isn't due to lack of parts. Regardless we decided to test our verifications. Here is one example of the heart rate sensor that we ended up testing. One of our requirements was that we want our heart rate to fall in within 10 BPM range of a known workable heart rate monitor (aka Apple Watch). We got this requirement working!  
 <img width="280" alt="Screenshot 2024-12-10 at 11 52 24 PM" src="https://github.com/user-attachments/assets/c246a273-6b84-4e7f-a622-8f03bea1f463">
 
 ## 2024-12-4 Final Takeaways
 Demo went well. We also filmed the extra credit video which I included. I started working on the presentation for our mock presentation.
 https://github.com/user-attachments/assets/a4e72ede-3543-401a-9fdf-084e24d0d647
 
-## 2024-12-10 Final Presentation
-Finished working on presentation, and got good feedback from the Mock Presentation that I then used to change the actual presentation. It was a good presentation! 
+## 2024-12-10 Final Presentation and Partner Summaries
+All of us worked on similar sections throughout the entire project. We did stick to the schedule mentioned in the Design Document and now the Final Report, but we also focused on a lot of collaborative effort. We all worked on one part together, because racking our brains together was the best way we could understand the problems that we were facing. In addition, I finished working on presentation, and got good feedback from the Mock Presentation that I then used to change the actual presentation. It was a good presentation! We also wrapped up the Final Report. Thanks for a great semester! I learned a lot in this class!
