@@ -7,7 +7,8 @@ Did some preliminary research on the idea. Looked into how to modify led lights,
 Looked into ESP32-C3 to be a big component of project. This would work with bluetooth and sending the data from wearable system to mounted system.
 
 ## 2024-09-23 Design Document work
-Started working on the design document. Created a visual aid to show how we would use both microphone and heart rate sensor to then be computed and come up with an output
+Started working on the design document. Created a visual aid to show how we would use both microphone and heart rate sensor to then be computed and come up with an output. <img width="379" alt="Screenshot 2024-12-10 at 11 43 12 PM" src="https://github.com/user-attachments/assets/d9f2d158-949a-4aef-af93-4c2b5ca66a78"> Also created a block diagram to show the overall interactions between all of the subsystems. <img width="324" alt="Screenshot 2024-12-10 at 11 44 03 PM" src="https://github.com/user-attachments/assets/123faa32-3b4b-49ba-91b9-c2e5a957f37c">
+
 
 ## 2024-09-30 Proposal Regrade work
 Changed entire format of document to be more professional. Did research into parts needed, and reevaluated use of them in the circuit schematics. Also redrew visual aids to work with TA feedback.
@@ -19,7 +20,7 @@ After receiving feedback on the design document, we have moved on to modifying o
 Finalized circuit schematic and started working on PCB. Split the PCB work in round robin style, with each person working on it at one time. We have 2 PCBs, but I mostly worked on the wearable component. Successfully made order by audit
 
 ## 2024-11-6 PCB update
-Realized we were lacking flash, crystal, and antenna, all crucial parts of the PCB. I started redoing the wearable system circuit schematic, and did initial connections for the PCB aspect of it. Also organized it to make it seem more professional and easy to follow. Made order after a long day!
+Realized we were lacking flash, crystal, and antenna, all crucial parts of the PCB. Wish we had used ESP32 Wroom instead of ESP32C3. This design setback is quite major, but I am confident we can overcome it. I started redoing the wearable system circuit schematic, and did initial connections for the PCB aspect of it. Also organized it to make it seem more professional and easy to follow. Made order after a long day!
 
 ## 2024-11-13 Starting Arduino code with breadboard
 Started working on breadboard after getting the modules. Starting the Arduino code was difficult, as none of us had prior experience. I searched up a lot of initial Arduino tutorials to learn how the software worked. Played around with flashing the ESP32 Wroom module for the first time. Searched up libraries for the heart rate sensor and the led strip.
@@ -35,9 +36,11 @@ We got the new PCBs over Thanksgiving break. We will attach the parts for the PC
 I realized that we needed a 3D printed enclosure for the mounted and wearable system. I started working on designs and decided that making two boxes with holes for the wires would be our best bet. I used Autodesk Fusion to design the box and associated lid. I had never used CAD software before so this was a good experience. I've included a picture of the 3D printed enclosure for the wearable system. ![IMG_7928](https://github.com/user-attachments/assets/a1ad217e-0b3e-413b-aef6-fe76179b6b23)
 
 ## 2024-12-2 PCB missing parts
-Realized that we were missing parts. Too late to get more parts in time for demo. Got the breadboard components fully working for demo. Included a video of the colors moving. 
+Realized that we were missing parts. Too late to get more parts in time for demo. Got the breadboard components fully working for demo. Included a video of the colors moving in the attachments. I also decided to tweak the visual aids and the block diagrams in time for the final demo so we knew exactly what we changed from the start of the project to now. This is our new visual aid (where we moved to WiFi connection instead of Bluetooth connection). <img width="526" alt="Screenshot 2024-12-10 at 11 45 36 PM" src="https://github.com/user-attachments/assets/5843032d-5dda-41a6-b9ca-f65ade615f30"> This is our new block diagram (where we added the 9V battery to power the LED strips and got rid of the LED drivers). <img width="444" alt="Screenshot 2024-12-10 at 11 46 23 PM" src="https://github.com/user-attachments/assets/e33d97e3-3b2d-47e0-94b4-a99663fb9232">
 
 ## 2024-12-4 Final Takeaways
 Demo went well. We also filmed the extra credit video which I included. I started working on the presentation for our mock presentation.
 https://github.com/user-attachments/assets/a4e72ede-3543-401a-9fdf-084e24d0d647
 
+## 2024-12-10 Final Presentation
+Finished working on presentation, and got good feedback from the Mock Presentation that I then used to change the actual presentation. It was a good presentation! 
