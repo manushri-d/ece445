@@ -35,12 +35,17 @@ We realized we were slightly behind on this project and just got 3 separate red,
 My partner did some of the code for the ESP-32 over break (great job Anusha).
 
 ## 2024-11-18 Demo Week
-We were able to get the heart rate data to work which can be verified with the Apple Watch shown below. 
+We were able to get the heart rate data to work which can be verified with the Apple Watch shown below.
+
 <img width="340" alt="Screenshot 2024-12-11 at 3 35 59 PM" src="https://github.com/user-attachments/assets/77844744-b4ea-4da6-b6cc-f26e9f26951a" />
+
 We were also able to get the lights to change with the change of music which can be shown in a video and will be included in our final presentation. We had some trouble with finding the right parts but we got our breadboard to work even if our PCB didn't. While my partners were working on the ESP32 code, I was soldering the parts onto the PCB. A couple parts such as the crystal and USB connector did not fit accordingly so our PCB did not ultimately work. My partner also 3D printed an enclosure for both our wearable and mounted subsystem which is shown below. 
+
 ![IMG_7931](https://github.com/user-attachments/assets/fbb38299-b87d-4086-ab24-61d1dffdbd96)
 ![IMG_7942](https://github.com/user-attachments/assets/4b9ab48e-7f8e-44cc-b184-1436b1c584c3)
 
+## 2024-11-18 Final Week
+This week we all start working on our presentation and report. This class has taught me a lot and it is the first time I have worked with PCB design. It was a great learning experience. 
 
 
 
