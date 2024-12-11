@@ -52,7 +52,7 @@ Our breadboard is now completely working, but our PCB isn't due to lack of parts
 <img width="280" alt="Screenshot 2024-12-10 at 11 52 24 PM" src="https://github.com/user-attachments/assets/c246a273-6b84-4e7f-a622-8f03bea1f463">
 
 ## 2024-12-4 Final Takeaways
-Demo went well. We also filmed the extra credit video which I included. I started working on the presentation for our mock presentation.
+Demo went well. We also filmed the [extra credit video](https://www.youtube.com/embed/IMr1uO_CP1s). I started working on the presentation for our mock presentation. Here is a mini demo of our led strips changing color based on audio/heart rate.
 https://github.com/user-attachments/assets/a4e72ede-3543-401a-9fdf-084e24d0d647
 
 ## 2024-12-10 Final Presentation and Partner Summaries
